@@ -1,0 +1,75 @@
+# --- Local working files, never published -----------------------------------
+
+# Third-party README used as inspiration. It contains another person's
+# contact details and a GitHub access token, so it must never be pushed.
+Legacy_README.md
+
+# Full-resolution source photo. Only the cropped images/banner.jpg is published.
+images/Rocket_Flame.PNG
+
+# Personal scratch space for drafts, notes and anything not meant to go public
+private/
+drafts/
+*.draft.md
+
+# --- Secrets and credentials ----------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*token*
+*secret*
+*credentials*
+
+# --- Raw camera files and image-editor projects -----------------------------------
+# Raw photos keep full EXIF data (camera serial number, sometimes GPS position)
+*.arw
+*.cr2
+*.cr3
+*.nef
+*.dng
+*.raw
+*.psd
+*.xcf
+*.kra
+*.afphoto
+
+# --- CAD and team-internal engineering files ---------------------------------------
+# Keeps ASTRA / project CAD from accidentally landing in a public profile repo
+*.step
+*.stp
+*.iges
+*.igs
+*.stl
+*.3mf
+*.f3d
+*.f3z
+*.sldprt
+*.sldasm
+*.slddrw
+*.catpart
+*.catproduct
+*.prt
+*.asm
+*.gcode
+
+# --- OS files ---------------------------------------------------------------------
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+._*
+
+# --- Editors and tools ----------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+.claude/
+CLAUDE.local.md
