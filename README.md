@@ -17,7 +17,7 @@ That also means joining our hotfire and launch campaigns.
 
 ### Some things I've worked on
 
-- **[G-code generator for our winding machine](https://github.com/Astra-Bremen/Winding_Machine)**: A Python script that calculates the winding geometry, generates the G-code and shows a preview of the toolpath. It can also insert pauses into the program automatically.
+- **[G-code generator for our winding machine](https://github.com/Astra-Bremen/Winding_Machine)**: A Python script that calculates the winding geometry, generates the G-code and shows a preview of the toolpath. Continually developing to provide ease of use with all the necessary features.
 - **Filament winding machine**: A 6 m machine for winding CFRP parts, running on Klipper for CNC. I worked on the motion system, electronics, firmware and calibration.
 - **Test stand cameras**: Cameras, network and a recording server to watch and record our hotfire tests, plus an automatic trigger that takes DSLR photos of the engine firing.
 - **Nitrous bottle stand**: A mobile stand that holds nitrous bottles upside down, so the rocket can be filled with liquid instead of gaseous N₂O.
