@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/levin-m%C3%B6ller-380b4a31a/"><img src="https://img.shields.io/badge/LinkedIn-Levin-0A66C2?style=flat-square&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjUiLz48cmVjdCB4PSIyLjgiIHk9IjkiIHdpZHRoPSI0LjQiIGhlaWdodD0iMTIuNSIvPjxyZWN0IHg9IjkuNSIgeT0iOSIgd2lkdGg9IjQuMiIgaGVpZ2h0PSIxMi41Ii8%2BPHBhdGggZD0iTTEzLjcgMTRjMC0yLjkgMS42LTUuMyA0LjUtNS4zIDMgMCA0LjMgMiA0LjMgNS4zdjcuNWgtNC4ydi03YzAtMS41LS41LTIuNC0xLjktMi40cy0yLjcgMS0yLjcgMi40eiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"/></a>
 </p>
 
-Space Engineering student from Germany with a soft spot for mechatronics.
-I like projects where mechanics, electronics and software come together.
+Space Engineering student from Germany with a love for mechatronics problems.
+I like fast paced projects where mechanics, electronics and software come together.
 
 At the student rocketry team [ASTRA Bremen](https://www.astra-bremen.com) I work on ground systems: the equipment we use to test, fuel and launch our hybrid rockets.
 That also means joining our hotfire and launch campaigns.
